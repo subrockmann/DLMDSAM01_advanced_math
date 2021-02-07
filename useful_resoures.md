@@ -1,3 +1,6 @@
+Official Github repository: [DLMDSAM01](https://github.com/iubh/DLMDSAM01)  
+
+
 ## Unit 1 - Calculus  
 ### 1.1 Differentiation and Integration  
 ### 1.1 Self check  
@@ -9,6 +12,8 @@
 ## Unit 2 - Integral Transformations  
 ### 2.1 Convolutions  
 ### 2.2 Fourier Transformation  
+Fourier series and fourier transform: [Youtube - Physics Videos by Eugene Khutoryansky: Fourier series and fourier transform](https://www.youtube.com/watch?v=r18Gi8lSkfM)  
+
 ---  
 ## Unit 3 - Vector Algebra  
 ### 3.1 Scalars and Vectors  
@@ -23,6 +28,7 @@
 ---  
 ## Unit 5 - Matrices and Vector Spaces  
 ### 5.1 Basic matrix algebra  
+*Basics review*: Einstein notation: [Einstein Summation Convention: an Introduction](https://www.youtube.com/watch?v=CLrTj7D2fLM&list=PLdgVBOaXkb9D6zw47gsrtE5XqLeRPh27_&index=3)  
 ### 5.2 Determinant, Trace, Complex and Hermitian Conjugates 
 *Basics review*: Complex numbers and conjugates: [Khan Academy: Intro to complex number conjugates](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:complex/x9e81a4f98389efdf:complex-div/v/complex-conjugates)  
 Inverse of a matrix:  
@@ -31,6 +37,7 @@ Inverse of a matrix:
 - *Basics review*: Solving polynomial equations is crucial for calculating eigenvectors, so review the basics here if needed:  
     - [Khan Academy: Factoring polynomials with quadratic forms](https://www.khanacademy.org/math/algebra-home/alg-polynomials#alg-factoring-polynomials-quadratic-forms)  
     - [Khan Academy: Strategies for factoring quadratics](https://www.khanacademy.org/math/algebra-home/alg-polynomials/factoring-quadratics-strategy-alg/v/strategy-in-factoring-quadratics-2)  
+    - [Khan Academy: Intro to long division of polynomials](https://www.khanacademy.org/math/algebra-home/alg-polynomials/alg-long-division-of-polynomials/v/polynomial-division?modal=1)
 - Eigenvectors and eigenvalues: [Coursera: What are eigenvalues and eigenvectors?
 ](https://coursera.org/share/53493e87625a503aa7c8192bcd2d621e) - brilliant intuition!
 - Eigenvalues of a 2x2 matrix: [Khan Acacemy: Eigenvalues of a 2x2 matrix](https://www.khanacademy.org/math/linear-algebra/alternate-bases/eigen-everything/v/linear-algebra-example-solving-for-the-eigenvalues-of-a-2x2-matrix)  
@@ -40,8 +47,19 @@ Inverse of a matrix:
 
 
     
-### 5.3 Diagonalization  
+### 5.3 Diagonalization 
+- [Youtube: Professor Dave explains: Diagonalization](https://www.youtube.com/watch?v=WTLl03D4TNA)  
+
 ### 5.4 Tensors  
+- What's a Tensor?: [Youtube - Dan Fleisch: What's a Tensor?](https://www.youtube.com/watch?v=f5liqUk0ZTw) 
+- [Youtube - Physics Videos by Eugene Khutoryansky: Tensors Explained Intuitively: Covariant, Contravariant, Rank](https://www.youtube.com/watch?v=CliW7kSxxWU)   
+- Matrix vs. tensors: [Medium: What’s the difference between a matrix and a tensor?](https://medium.com/@quantumsteinke/whats-the-difference-between-a-matrix-and-a-tensor-4505fbdc576c#)  
+- [Youtube - Faculty of Khan: Introduction to tensors](https://www.youtube.com/watch?v=uaQeXi4E7gA&list=PLdgVBOaXkb9D6zw47gsrtE5XqLeRPh27_)  
+- Intuition on tensor invariance: (misleading Youtube title!) [Youtube - Faculty of Khan: Introduction to Tensors: Transformation Rules](https://www.youtube.com/watch?v=j6DazQDbEhQ&list=PLdgVBOaXkb9D6zw47gsrtE5XqLeRPh27_&index=2)  
+- Covariant and contravariant tensors: []()  
+- Contravariant vector transformation: [Youtube - Eigenchris: Tensors for Beginners 3: Vector Transformation Rules](https://www.youtube.com/watch?v=A1h_eucHFW4&list=PLJHszsWbB6hrkmmq57lX8BV-o-YIOFsiG&index=6)  
+
+
 ---  
 ## Unit 6 - Information Theory  
 ### 6.1 Mean Squared Error (MSE)  
