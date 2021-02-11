@@ -8,6 +8,9 @@ Official Github repository: [DLMDSAM01](https://github.com/iubh/DLMDSAM01)
 ### 1.2 Self check  
 ### 1.3 Multiple Integrals  
 ### 1.4 Calculus of Variations 
+- Definition of calculus of variations [Youtube: Introduction to Calculus of Variations](https://www.youtube.com/watch?v=6HeQc7CSkZs)  
+- Euler-Lagrange []()    
+
 ---  
 ## Unit 2 - Integral Transformations  
 ### 2.1 Convolutions  
