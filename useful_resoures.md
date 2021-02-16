@@ -3,6 +3,7 @@ Official Github repository: [DLMDSAM01](https://github.com/iubh/DLMDSAM01)
 
 ## Unit 1 - Calculus  
 ### 1.1 Differentiation and Integration  
+- Taylor approximation and examples [mathsisfun.com: Taylor series ](https://www.mathsisfun.com/algebra/taylor-series.html)
 ### 1.1 Self check  
 ### 1.2 Partial Differentiation  
 ### 1.2 Self check  
@@ -27,15 +28,17 @@ Fourier series and fourier transform: [Youtube - Physics Videos by Eugene Khutor
 ### 4.1 Differentiation of vectors  
 ### 4.2 Integration of vectors  
 ### 4.3 Scalar and vector fields  
-### 4.4 Vector fields
+### 4.4 Vector fields  
+- Scalar and vector fields [Coursera: Scalar and vector fields](https://coursera.org/share/57c7ce8f5218b72b4abd71abcc15d77c)  
+
 ---  
 ## Unit 5 - Matrices and Vector Spaces  
 ### 5.1 Basic matrix algebra  
 *Basics review*: Einstein notation: [Einstein Summation Convention: an Introduction](https://www.youtube.com/watch?v=CLrTj7D2fLM&list=PLdgVBOaXkb9D6zw47gsrtE5XqLeRPh27_&index=3)  
 ### 5.2 Determinant, Trace, Complex and Hermitian Conjugates 
 *Basics review*: Complex numbers and conjugates: [Khan Academy: Intro to complex number conjugates](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:complex/x9e81a4f98389efdf:complex-div/v/complex-conjugates)  
-Inverse of a matrix:  
-- [Khan Academy: Intro to matrix inverses](https://www.khanacademy.org/math/algebra-home/alg-matrices/alg-intro-to-matrix-inverses/v/inverse-matrix-part-1)  
+- Determinant of a matrix: [Math10.com: Determinant of a Matrix](https://www.math10.com/en/algebra/matrices/determinant.html)  
+Inverse of a matrix: [Khan Academy: Intro to matrix inverses](https://www.khanacademy.org/math/algebra-home/alg-matrices/alg-intro-to-matrix-inverses/v/inverse-matrix-part-1)  
 #### Eigenvectors and eigenvalues 
 - *Basics review*: Solving polynomial equations is crucial for calculating eigenvectors, so review the basics here if needed:  
     - [Khan Academy: Factoring polynomials with quadratic forms](https://www.khanacademy.org/math/algebra-home/alg-polynomials#alg-factoring-polynomials-quadratic-forms)  
