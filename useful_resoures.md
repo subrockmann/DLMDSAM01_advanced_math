@@ -10,8 +10,13 @@ Official Github repository: [DLMDSAM01](https://github.com/iubh/DLMDSAM01)
 
 
 ### 1.1 Differentiation and Integration  
+#### Differentiation  
+- Differentiation of fractions [MathePeter: Brüche ableiten (Trick)](https://www.youtube.com/watch?v=xMfS-VNV-Q4)  
 
 #### Integration
+- Integration by substitution infinite integrals [MathePeter: Integralrechnung Substitution: Einfach Erklärt + Beispiel](https://www.youtube.com/watch?v=rKGlE4av4-c) 
+- Integration by substitution infinite integrals 2nd type [MathePeter: Integralrechnung Substitution 2. Art | Einfach Erklärt + Beispiel](https://www.youtube.com/watch?v=vtyaO162fa4)  
+- Integration by substitution - finite integrals []()  
 - Integration by partial fractions [Youtube: Integration by partial fractions](https://www.youtube.com/watch?v=r5MIraVUVUA)  
 
 #### Taylor series  
