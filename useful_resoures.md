@@ -2,8 +2,21 @@ Official Github repository: [DLMDSAM01](https://github.com/iubh/DLMDSAM01)
 
 
 ## Unit 1 - Calculus  
+*Basics review*: Partialbruchzerlegung:  
+- [MathePeter: Partialbruchzerlegung 1/4: ALLE Möglichkeiten](https://www.youtube.com/watch?v=Kd_757z-g-k) 
+- [MathePeter: Partialbruchzerlegung 2/4: Einfache Polstelle](https://www.youtube.com/watch?v=ljQQIYmw2aw)  
+- [MathePeter: Partialbruchzerlegung 3/4: Mehrfache Polstelle](https://www.youtube.com/watch?v=9ZT6W8n38Y0)  
+- [MathePeter: Partialbruchzerlegung 4/4: Komplexe Polstelle](https://www.youtube.com/watch?v=AxC602PvHq0)  
+
+
 ### 1.1 Differentiation and Integration  
-- Taylor approximation and examples [mathsisfun.com: Taylor series ](https://www.mathsisfun.com/algebra/taylor-series.html)
+
+#### Integration
+- Integration by partial fractions [Youtube: Integration by partial fractions](https://www.youtube.com/watch?v=r5MIraVUVUA)  
+
+#### Taylor series  
+- Taylor approximation and examples [mathsisfun.com: Taylor series ](https://www.mathsisfun.com/algebra/taylor-series.html)  
+- Taylor series [Paul's online notes: Taylor series](https://tutorial.math.lamar.edu/classes/calcii/taylorseries.aspx)  
 ### 1.1 Self check  
 ### 1.2 Partial Differentiation  
 ### 1.2 Self check  
