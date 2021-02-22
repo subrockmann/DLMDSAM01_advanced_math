@@ -19,6 +19,26 @@ Official Github repository: [DLMDSAM01](https://github.com/iubh/DLMDSAM01)
 - Integration by substitution - finite integrals []()  
 - Integration by partial fractions [Youtube: Integration by partial fractions](https://www.youtube.com/watch?v=r5MIraVUVUA)  
 
+- Multiple integrals  
+    - Intuition of multiple integrals: [Khan Academy: Double integral 1](https://www.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/double-integrals-topic/v/double-integral-1)  
+    - muliple integrals - example: [Khan Academy: Double integrals 2](https://www.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/double-integrals-topic/v/double-integrals-2)  
+
+    - double integrals with variable bounds part 1[Khan Academy: Double integrals 5](https://www.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/double-integrals-topic/v/double-integrals-5)  
+    - double integrals with variable bounds part 2 [Khan Academy: Double integrals 6](https://www.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/double-integrals-topic/v/double-integrals-6)  
+
+- Integration along a path 
+    - intuition [Khan Academy: Introduction to the line integral](https://www.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/line-integrals/v/introduction-to-the-line-integral)  
+    - line integral example 1 [Khan Academy: Line integral example 1](https://www.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/line-integrals/v/line-integral-example-1)  
+    - line integral example closed contour 1/2 [Khan Academy: Line integral example 2 (part 1)](https://www.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/line-integrals/v/line-integral-example-2-part-1)  
+    - line integral example closed contour 2/2 [Khan Academy: Line integral example 2 (part 2)](https://www.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/line-integrals/v/line-integral-example-2-part-2)  
+    - line integrals and vector fields [Khan Academy: Line integrals and vector fields](https://www.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/line-integrals-vectors/v/line-integrals-and-vector-fields) 
+
+- Integration over a surface  
+    - integration over a torus part 1 [Khan Acadmey: Example of calculating a surface integral part 1](https://www.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/surface-integrals-introduction/v/example-of-calculating-a-surface-integral-part-1)  
+    - integration over a torus part 2 - calculating the cross product [Khan Academy: Example of calculating a surface integral part 2](https://www.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/surface-integrals-introduction/v/example-of-calculating-a-surface-integral-part-2)  
+    - integration over a torus part 3 - solving the double integral [Khan Academy: Example of calculating a surface integral part 3](https://www.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/surface-integrals-introduction/v/example-of-calculating-a-surface-integral-part-3)  
+- Parametrization of a surface (torus): [Khan Academy: Parametric functions, two parameters](https://www.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/ways-to-represent-multivariable-functions/a/parametric-functions-two-parameters)  
+
 #### Taylor series  
 - Taylor approximation and examples [mathsisfun.com: Taylor series ](https://www.mathsisfun.com/algebra/taylor-series.html)  
 - Taylor series [Paul's online notes: Taylor series](https://tutorial.math.lamar.edu/classes/calcii/taylorseries.aspx)  
@@ -48,6 +68,14 @@ Fourier series and fourier transform: [Youtube - Physics Videos by Eugene Khutor
 ### 4.3 Scalar and vector fields  
 ### 4.4 Vector fields  
 - Scalar and vector fields [Coursera: Scalar and vector fields](https://coursera.org/share/57c7ce8f5218b72b4abd71abcc15d77c)  
+
+- Gradient - nabla - del [Khan Academy: Gradient](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/gradient-and-directional-derivatives/v/gradient)  
+
+#### Divergence  
+- visual intuition on divergence [Khan Academy: Divergence intuition part 1](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/divergence-grant-videos/v/divergence-intuition-part-1)  
+- visual intuition on positive or negative divergence [Khan Academy: Divergence intuition, part 2](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/divergence-grant-videos/v/divergence-intuition-part-2)  
+- calculating divergence [Khan Academy: Divergence formula, part 2](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/divergence-grant-videos/v/divergence-formula-part-2)  
+
 
 ---  
 ## Unit 5 - Matrices and Vector Spaces  
