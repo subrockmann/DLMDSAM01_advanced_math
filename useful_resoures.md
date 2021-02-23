@@ -87,8 +87,15 @@ Fourier series and fourier transform: [Youtube - Physics Videos by Eugene Khutor
 *Basics review*: Einstein notation: [Einstein Summation Convention: an Introduction](https://www.youtube.com/watch?v=CLrTj7D2fLM&list=PLdgVBOaXkb9D6zw47gsrtE5XqLeRPh27_&index=3)  
 ### 5.2 Determinant, Trace, Complex and Hermitian Conjugates 
 *Basics review*: Complex numbers and conjugates: [Khan Academy: Intro to complex number conjugates](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:complex/x9e81a4f98389efdf:complex-div/v/complex-conjugates)  
+#### Determinants
 - Determinant of a matrix: [Math10.com: Determinant of a Matrix](https://www.math10.com/en/algebra/matrices/determinant.html)  
-Inverse of a matrix: [Khan Academy: Intro to matrix inverses](https://www.khanacademy.org/math/algebra-home/alg-matrices/alg-intro-to-matrix-inverses/v/inverse-matrix-part-1)  
+- Rechenregeln für Determinanten [MathePeter: Rechenregeln für Determinanten](https://www.youtube.com/watch?v=jDerrYHsLcY)  
+- Determinante nach Laplaceschem Entwicklungssatz [MathePeter: Determinante berechnen (Entwicklungssatz von Laplace)](https://www.youtube.com/watch?v=5TprkT5tHPo)  
+#### Matrix inversion
+-Inverse of a matrix: [Khan Academy: Intro to matrix inverses](https://www.khanacademy.org/math/algebra-home/alg-matrices/alg-intro-to-matrix-inverses/v/inverse-matrix-part-1)  
+- inverse of a matrix - Cramersche Regel [MathePeter: Matrix invertieren (Cramersche Regel)](https://www.youtube.com/watch?v=ooTAcwG4fkU)  
+
+
 #### Eigenvectors and eigenvalues 
 - *Basics review*: Solving polynomial equations is crucial for calculating eigenvectors, so review the basics here if needed:  
     - [Khan Academy: Factoring polynomials with quadratic forms](https://www.khanacademy.org/math/algebra-home/alg-polynomials#alg-factoring-polynomials-quadratic-forms)  
