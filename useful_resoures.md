@@ -48,14 +48,20 @@ Official Github repository: [DLMDSAM01](https://github.com/iubh/DLMDSAM01)
 ### 1.3 Multiple Integrals  
 ### 1.4 Calculus of Variations 
 - Definition of calculus of variations [Youtube: Introduction to Calculus of Variations](https://www.youtube.com/watch?v=6HeQc7CSkZs)  
-- Euler-Lagrange []()    
+- Euler-Lagrange [Introduction to Variational Calculus - Deriving the Euler-Lagrange Equation](https://www.youtube.com/watch?v=VCHFCXgYdvY)  
 
 ---  
 ## Unit 2 - Integral Transformations  
 ### 2.1 Convolutions  
 ### 2.2 Fourier Transformation  
-Fourier series and fourier transform: [Youtube - Physics Videos by Eugene Khutoryansky: Fourier series and fourier transform](https://www.youtube.com/watch?v=r18Gi8lSkfM)  
-
+#### Fourier series  
+- Fourier series and fourier transform: [Youtube - Physics Videos by Eugene Khutoryansky: Fourier series and fourier transform](https://www.youtube.com/watch?v=r18Gi8lSkfM)  
+- Intuition about Fourier series [Khan Academy: Fourier Series introduction](https://www.khanacademy.org/science/electrical-engineering/ee-signals/ee-fourier-series/v/ee-fourier-series-intro)  
+- first term in a Fourier series: [Khan Academy: First term in a Fourier series](https://www.khanacademy.org/science/electrical-engineering/ee-signals/ee-fourier-series/v/ee-first-term-fourier-series)  
+- finding cosine coefficients :[Khan Academy: Fourier coefficients for cosine terms](https://www.khanacademy.org/science/electrical-engineering/ee-signals/ee-fourier-series/v/ee-fourier-coefficients-cosine)  
+- finding sine coefficients: [Khan Academy: Fourier coefficients for sine terms](https://www.khanacademy.org/science/electrical-engineering/ee-signals/ee-fourier-series/v/ee-fourier-coefficients-sine)  
+- example of fourier series: [Khan Acamdey:Finding Fourier coefficients for square wave](https://www.khanacademy.org/science/electrical-engineering/ee-signals/ee-fourier-series/v/ee-fourier-coefficients-for-square-wave)  
+- example calculations of Fourier series: [Math24.net: Definition of Fourier Series and Typical Examples](https://www.math24.net/fourier-series-definition-typical-examples/)  
 ---  
 ## Unit 3 - Vector Algebra  
 ### 3.1 Scalars and Vectors  
