@@ -69,6 +69,7 @@ Official Github repository: [DLMDSAM01](https://github.com/iubh/DLMDSAM01)
 ### 3.3 Multiplication of Vectors: Dot product and scalar product  
 ---  
 ## Unit 4 - Vector Calculus  
+- Good resource on vector calculus: [Oregon State University: Web Study Guide for Vector Calculus](http://sites.science.oregonstate.edu/math/home/programs/undergrad/CalculusQuestStudyGuides/vcalc/vcalc.html)  
 ### 4.1 Differentiation of vectors  
 ### 4.2 Integration of vectors  
 ### 4.3 Scalar and vector fields  
@@ -100,7 +101,8 @@ Official Github repository: [DLMDSAM01](https://github.com/iubh/DLMDSAM01)
 #### Matrix inversion
 -Inverse of a matrix: [Khan Academy: Intro to matrix inverses](https://www.khanacademy.org/math/algebra-home/alg-matrices/alg-intro-to-matrix-inverses/v/inverse-matrix-part-1)  
 - inverse of a matrix - Cramersche Regel [MathePeter: Matrix invertieren (Cramersche Regel)](https://www.youtube.com/watch?v=ooTAcwG4fkU)  
-
+- Inverse Matrix nach Gauss-Jordan [MathePeter: Matrix invertieren mit Gauß-Jordan-Verfahren Einfach Erklärt + Beispiel](https://www.youtube.com/watch?v=jGHTVeJ0xto)  
+- Iverse Matrix mit Adjunten-Verfahren [MathePeter:Matrix invertieren (Adjunkten-Verfahren)](https://www.youtube.com/watch?v=3Q8lHjFfsOI)  
 
 #### Eigenvectors and eigenvalues 
 - *Basics review*: Solving polynomial equations is crucial for calculating eigenvectors, so review the basics here if needed:  
